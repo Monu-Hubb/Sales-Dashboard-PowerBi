@@ -1,4 +1,4 @@
-Task 4: Sales Dashboard (Power BI)
+Sales Dashboard (Power BI)
 * Objective
   Create an interactive dashboard to analyze sales performance and support business decision-making.
 * Tools
